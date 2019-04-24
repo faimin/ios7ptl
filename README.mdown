@@ -2,7 +2,7 @@ This is the sample code to [iOS 7 Programming Pushing the
 Limits](http://iosptl.com) by [Rob Napier](http://github.com/rnapier) and [Mugunth
 Kumar](http://github.com/MugunthKumar).
 
-###Licensing
+### Licensing
 
 The sample code to *iOS 7 Programming Pushing the Limits* is licensed under the
 [MIT License](http://www.opensource.org/licenses/MIT):
